@@ -1,0 +1,9 @@
+.accordian{
+    text-align: center;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.webCourse{
+    display:flex;
+    flex-direction: column;
+}

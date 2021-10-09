@@ -1,0 +1,15 @@
+.app_banner{
+    height: 400px;
+    width: 100%;
+}
+.ideal{
+    justify-content: center;
+    text-align: center;
+}
+
+@media (max-width: 790px) {
+    .app_banner{
+        height: 230px;
+        width: 100%;
+    }
+}
